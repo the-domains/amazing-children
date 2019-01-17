@@ -1,0 +1,114 @@
+typography_spectrum: 0.12981962204090144
+color:
+  brandStrength: 0.741163556494077
+  lightness: 0.8796662933384944
+  saturation: 0.7163537906689366
+  rhythmicContrast: 0.4741345167089032
+  brandColors:
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
+opengraph:
+  appId: ''
+layout_spectrum: 0.45808830029736874
+analytics:
+  twitter: ''
+author:
+  url: 'http://amazingchildren.blog'
+  name: Aikaterina Kalostypi
+  email: kalostypi@icloud.com
+name: Amazing Children
+url: 'http://amazingchildren.blog/'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Mε λίγα λόγια …
+    id: 2e5eaf00-f896-4b52-aa41-9822cf9d08a2
+    type: content
+  - name: Αναπτυξιακά Ορόσημα 1 / Το βρέφος στους δύο μήνες …
+    id: ab72f8a4-b313-401a-8f17-bcfb076798ed
+    type: content
+  - name: Η Ανάπτυξη του Αντιληπτικού Λόγου
+    id: 748bba82-dfed-4196-a052-a510d149f773
+    type: content
+  - name: 'Επιλεκτική Αλαλία '
+    id: d5908564-7eb4-479a-82ca-745337b05e12
+    type: content
+  - name: 'Eφηβεία: μία μεταβατική περίοδος'
+    id: faeb9298-d9bb-4128-a1b5-caf4e2e48e36
+    type: content
+  - name: Τι είναι τα ΑΝΤΑΝΑΚΛΑΣΤΙΚΑ;
+    id: 49f9bea7-ff3b-4f82-bce8-dd41c237cfe7
+    type: content
+title: Amazing Children
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56b7de92-653a-4153-b5b5-efd660eea92f.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/56b7de92-653a-4153-b5b5-efd660eea92f.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf1c936a-4280-4221-ba7a-eac4d9351776.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf1c936a-4280-4221-ba7a-eac4d9351776.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: ' Καταπληκτικά Παιδιά - Aikaterina''s blog'
+purpose:
+  - type: contact
+    url: 'tel:2299112171'
+    label: Call 2299112171
+  - type: contact
+    url: 'mailto:amazingchildren@gmail.com'
+    label: Contact me
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddcf3d55-4e20-46ea-8c45-416d7dcfa46e.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/10d6ab5c-9aff-4a05-9bfd-dc761b6cbec8.png
+content_rating:
+  adult: false
+github: true
